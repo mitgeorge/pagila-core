@@ -1,0 +1,4 @@
+2018-08-30 16:36:50,972 [main] INFO  services.PagilaLogger  - Welcome to www.HowToDoInJava.com
+2018-08-30 16:36:50,974 [main] DEBUG services.PagilaLogger  - Welcome to www.HowToDoInJava.com
+2018-08-30 16:36:50,974 [main] ERROR services.PagilaLogger  - Welcome to www.HowToDoInJava.com
+2018-08-30 16:36:50,974 [main] FATAL services.PagilaLogger  - Welcome to www.HowToDoInJava.com
