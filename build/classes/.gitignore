@@ -54,6 +54,7 @@
 /StoreDAO.class
 /Test.class
 /database/
+/hibernate.cfg.xml
 /objects/
 /sampletest/
 /services/
